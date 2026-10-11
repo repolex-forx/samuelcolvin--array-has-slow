@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "array-has-slow",
+  "versions": [
+    {
+      "commit": "d833682ce9c148970377767e5dd7b12523aa3610",
+      "parsed_at": "2026-10-11T19:03:52.033615+00:00",
+      "filetree": "filetree/d833682ce9c148970377767e5dd7b12523aa3610.nq.gz",
+      "blobs": [
+        "blob/91fd7655fe83e92d372cd37d4e9aebf9b432ba85.nq.gz",
+        "blob/79fc2167a05c80e3b74f57b17544b86cfb32bf17.nq.gz",
+        "blob/b84305e275d7c81dcb041d49e313dd34a1ccebcb.nq.gz",
+        "blob/828237cbf73d2c631c0341ce6a6b33675ef48653.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
